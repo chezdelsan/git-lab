@@ -9,3 +9,7 @@
 Author: Noah <noahsanchez3224@gmail.com>
 Date:   Tue Jan 21 19:21:02 2025 -0500
 9. Nothing to commit working tree clean
+10. My answers are not reflected
+11. the git push command output wants me to pull my remote changes from github to the local rep
+12. The changes are reflected
+13. .  ..  .git  .gitignore  README.md
